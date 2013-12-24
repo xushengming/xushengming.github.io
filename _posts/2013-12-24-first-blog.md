@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: 我的博客开通啦
 ---
@@ -25,5 +25,5 @@ title: 我的博客开通啦
 >Stay Hungry.Stay Foolish.
 >                          --Jobs
 
-[1]: http://michaeldwan.com/ "title: Michael Dwan的主页"
-[康总]: http://www.kangzubin.cn/ "title: 康总的主页"
+[1]: http://michaeldwan.com/ "Michael Dwan的主页"
+[康总]: http://www.kangzubin.cn/ "康总的主页"
