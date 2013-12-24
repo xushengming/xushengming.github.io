@@ -20,10 +20,7 @@ title: 我的博客开通啦
 把它当做自己的一小片世界，多写写自己的心得感悟、学习历程，多和志同道合的人们交流，如果你们发现哪里
 有改进的空间，不管是哪里，采用最直接粗暴的方式提出来吧。
 
-突然想到了这句话，
-
->Stay Hungry.Stay Foolish.
->                          --Jobs
+>Stay Hungry.Stay Foolish.   --Jobs
 
 [1]: http://michaeldwan.com/ "Michael Dwan的主页"
 [康总]: http://www.kangzubin.cn/ "康总的主页"
